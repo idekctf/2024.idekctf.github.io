@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"bandits","ctftimeId":null,"division":"open","score":100,"globalPlace":1040,"divisionPlace":1040,"solves":[{"category":"sanity","name":"Welcome to idekCTF 2024!","points":100,"solves":1010,"id":"sanity-welcome","createdAt":1723947685472}]}}

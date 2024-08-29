@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"enzocut","ctftimeId":null,"division":"open","score":500,"globalPlace":161,"divisionPlace":161,"solves":[{"category":"pwn","name":"kernel module golf","points":500,"solves":1,"id":"pwn-kernel-module-golf","createdAt":1724024850032}]}}
